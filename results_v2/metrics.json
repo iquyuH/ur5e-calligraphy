@@ -1,0 +1,9 @@
+{
+  "style": "classic",
+  "speed_m_s": 0.008,
+  "samples": 5141,
+  "ik_success_fraction": 1.0,
+  "writing_rmse_mm": 1.7958806391475388,
+  "writing_max_error_mm": 2.8357343638477963,
+  "within_3mm_fraction": 1.0
+}

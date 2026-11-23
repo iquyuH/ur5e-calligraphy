@@ -1,0 +1,13 @@
+[project]
+name = "ur5e-calligraphy"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "imageio>=2.38.2",
+    "imageio-ffmpeg>=0.8.1",
+    "matplotlib>=3.11.2",
+    "mujoco>=4.0.1",
+    "numpy>=2.5.5",
+    "pillow>=13.0.0",
+    "scipy>=1.18.1",
+]
