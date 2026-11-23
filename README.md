@@ -6,7 +6,7 @@
 
 [![机械臂运动，四倍速预览](results_v2/demo.gif)](results_v2/demo.mp4)
 
-![书写结果](results_v2/artwork.png)
+<img src="results_v2/artwork.png" alt="书写结果" width="480">
 
 ## 技术路线
 
